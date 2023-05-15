@@ -1,6 +1,18 @@
-[
-      {
-        "title": "title.shadownetwork",
-        "content": { "en_us": "Shadow Network", "en_gb": "Shadow Network" }
+{
+  "languages": [
+    {
+      "title": "title.shadownetwork",
+      "definitions": {
+        "en_us": "Shadow Network",
+        "en_gb": "Testing"
       }
-]
+    },
+    {
+      "title": "hub.compass.creative",
+      "definitions": {
+        "en_us": "Creative Lands",
+        "en_gb": "Creative World"
+      }
+    }
+  ]
+}
