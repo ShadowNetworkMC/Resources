@@ -1,0 +1,6 @@
+[
+      {
+        "title": { "$t": "title.shadownetwork" },
+        "content": { "en_us": "Shadow Network", "en_gb": "Shadow Network" }
+      }
+]
